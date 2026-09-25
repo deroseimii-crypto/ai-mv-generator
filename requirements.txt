@@ -1,0 +1,8 @@
+Flask
+moviepy
+librosa
+werkzeug
+numpy
+requests
+opencv-python-headless
+gunicorn
